@@ -48,6 +48,9 @@ A high-reliability inventory management system built with Node.js, Express, and 
          │
          └─► Release Connection to Pool ──► Return 201 Created Status
 
+
+
+
 🚀 Getting Started
 1. Database Setup
 Execute Data.sql in MySQL Workbench to initialize the schema, indexes, and initial dataset.
