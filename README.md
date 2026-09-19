@@ -1,4 +1,3 @@
-# Full-Stack-Inventory-System
 # Full-Stack Inventory & Order Management System
 
 A high-reliability inventory management system built with Node.js, Express, and MySQL. Implements ACID-compliant database transactions and row-level locking (`FOR UPDATE`) to maintain data integrity and prevent race conditions during high-concurrency order placement.
